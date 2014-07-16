@@ -1,4 +1,4 @@
-Vim trainign class notes
+Vim training class notes
 ==============
 
 Class 1 has no video as it was just showing people how to install Vim.
